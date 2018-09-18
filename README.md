@@ -22,3 +22,7 @@ Field-of-Experts Filters Guided Tensor Completion
  ![repeat-MDAEP](https://github.com/yqx7150/FoE_STDC/blob/master/Recovery%20results.PNG)
     
 (a) Original image. (b) Observed data. (c) M2SA. (d) M2SA-G. (e) LRTC. (f) HaLRTC. (g) STDC. (h) SPCTV. (i) SPCQV. (j) FoE-LRTC. (k) FoE-STDC.
+
+# The average recovery performance (PSNR/RSE) on eight images with missing rates of 70%, 80% and 90%
+  
+![repeat-MDAEP](https://github.com/yqx7150/FoE_STDC/blob/master/RECOVERY%20PERFORMANCE.PNG)
