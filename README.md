@@ -19,5 +19,6 @@ Field-of-Experts Filters Guided Tensor Completion
 
   
 # Recover the Baboon, Barbara, House, Lena, Peppers image with 90% of missing entries using different methods
-![repeat-MDAEP]（https://github.com/yqx7150/FoE_STDC/blob/master/Recover%20the%20Baboon%2C%20Barbara%2C%20House%2C%20Lena%2C%20Peppers%20image%20with%2090%25%20of%20missing%20entries%20using%20different%20methods.PNG）
+ ![repeat-MDAEP]（https://github.com/yqx7150/FoE_STDC/blob/master/Recover%20the%20Baboon%2C%20Barbara%2C%20House%2C%20Lena%2C%20Peppers%20image%20with%2090%25%20of%20missing%20entries%20using%20different%20methods.PNG）
+  
 (a) Original image. (b) Observed data. (c) M2SA. (d) M2SA-G. (e) LRTC. (f) HaLRTC. (g) STDC. (h) SPCTV. (i) SPCQV. (j) FoE-LRTC. (k) FoE-STDC.
