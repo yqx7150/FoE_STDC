@@ -37,6 +37,8 @@ Field-of-Experts Filters Guided Tensor Completion
   * Convolutional Sparse Coding in Gradient Domain for MRI Reconstruction [<font size=5>**[Paper]**</font>](http://html.rhhz.net/ZDHXBZWB/html/2017-10-1841.htm)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GradCSC)
   
   * Synthesis-analysis deconvolutional network for compressed sensing [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8296620)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SADN)
+ 
+  * Multi-filters guided low-rank tensor coding for image inpainting [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S0923596518308877?via%3Dihub)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MFLRTC_inpainting)
     
   * Sparse and dense hybrid representation via subspace modeling for dynamic MRI [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S089561111730006X)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SDR)
 
